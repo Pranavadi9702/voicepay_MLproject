@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665723405514",
+    "project_id": "thackur-4ee4e",
+    "storage_bucket": "thackur-4ee4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665723405514:android:f1c84c3ee7e8be18f2a033",
+        "android_client_info": {
+          "package_name": "com.example.thackur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665723405514-l2kg9f7feh0o8rboup7ptchv1c4jhhq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmBdi8I7qPJ19pLMZI5H0VnH3-7U4XSSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665723405514-l2kg9f7feh0o8rboup7ptchv1c4jhhq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,94 @@
+# ==========================================
+# Flutter & Android Build Artifacts
+# ==========================================
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+android/.gradle/
+android/local.properties
+android/app/build/
+android/captures/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# ==========================================
+# Python Virtual Environments & Bytecode
+# ==========================================
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+tmp_spkrec/
+temp/
+*.tmp
+
+# ==========================================
+# System & IDE Files
+# ==========================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+
+# Flutter generated
+build/
+.dart_tool/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# ML datasets / generated files
+*.zip
+
+# Optional: ignore datasets if they shouldn't be committed
+# backend/KAGGLE/
+
+
+
+# ==========================================
+# Android / Native Build Artifacts
+# ==========================================
+.cxx/
+**/.cxx/
+.gradle/
+**/.gradle/
+
+# ==========================================
+# Python Generated / Runtime Files
+# ==========================================
+python/uploads/
+*.enc
+*_key*.txt
+*_keySignature.txt
+*.wav
+*.mp3
+
+# ==========================================
+# ML / Dataset Archives
+# ==========================================
+*.zip
+
+# ==========================================
+# Environment / Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
